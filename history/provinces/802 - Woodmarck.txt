@@ -22,4 +22,4 @@ latent_trade_goods = {
 	coal
 }
 
-set_province_flag = escann_livestock_province
+set_province_flag = escann_naval_supplies_province
